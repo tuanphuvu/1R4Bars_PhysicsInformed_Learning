@@ -47,7 +47,7 @@ Finally compare the precision of these control models through tracking a new tra
 
 ---
 
-## Key Results
+## Key Results (can be varied for other trials, but alway in this form)
 
 ### Torque prediction RMSE
 
