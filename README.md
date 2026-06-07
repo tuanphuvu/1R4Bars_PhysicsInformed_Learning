@@ -4,6 +4,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+[Simulation video](https://youtu.be/WyAbj6CYOXE)
+
 ## Overview
 
 This project compares two data-driven approaches to inverse dynamics identification
