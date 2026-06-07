@@ -23,7 +23,7 @@ of a 2-DOF rotating parallelogram four-bar linkage under a time-varying external
 - **MLP baseline** — a standard 3-hidden-layer neural network with no physics
   knowledge, trained on the same data with Adam.
 
-![Mechanism](mechanism.jpg)
+![Mechanism](structure.png)
 
 ---
 
