@@ -162,16 +162,6 @@ python validating_controllers.py
 
 ---
 
-## Reference
-
-> Vu, T. P. (2025–2026). *Lagrangian Dynamic Formulation of a Planar Mechanism
-> with a Four-Bar Linkage Mounted on a Rotating Base*.
-> Technical Report
-
-> Tang, C. P. (2010). *Lagrangian Dynamic Formulation of a Four-Bar Mechanism
-> with Minimal Coordinates*.
-
----
 
 ## License
 
