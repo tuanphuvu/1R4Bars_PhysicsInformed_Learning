@@ -10,15 +10,9 @@ where:
     G  — gravitational torque vector
     Q_F — generalised force from external load at G4
 
-All expressions follow the technical report (Vu, 2025/2026), which
+All expressions follow the technical report, which
 derives the model from first principles using Lagrangian mechanics.
 
-Notes
------
-The mass matrix depends only on q2 (not q1), because the parallelogram
-constraint S1 = 0, S2 = 1 eliminates the base-angle dependence from all
-inertia terms.
-"""
 
 import numpy as np
 from dynamics.params import K1, K2, M11_0, meff1, meff2, g, a, b, L, e, h4, F_EXT
